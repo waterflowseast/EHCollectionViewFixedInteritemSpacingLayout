@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHCollectionViewFixedInteritemSpacingLayout_Example' do
+  pod 'EHCollectionViewFixedInteritemSpacingLayout', :path => '../'
+
+  target 'EHCollectionViewFixedInteritemSpacingLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
