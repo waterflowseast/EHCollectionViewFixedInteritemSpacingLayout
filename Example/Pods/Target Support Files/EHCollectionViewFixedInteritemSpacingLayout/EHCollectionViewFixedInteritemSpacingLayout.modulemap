@@ -1,0 +1,6 @@
+framework module EHCollectionViewFixedInteritemSpacingLayout {
+  umbrella header "EHCollectionViewFixedInteritemSpacingLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - EHCollectionViewFixedInteritemSpacingLayout (0.1.0)
+
+DEPENDENCIES:
+  - EHCollectionViewFixedInteritemSpacingLayout (from `../`)
+
+EXTERNAL SOURCES:
+  EHCollectionViewFixedInteritemSpacingLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EHCollectionViewFixedInteritemSpacingLayout: 3c3c78b940098d03a09fb19aeb136b47415a5f14
+
+PODFILE CHECKSUM: 93f126011cb586b82a20ffb7b326b52376e61969
+
+COCOAPODS: 1.0.0
