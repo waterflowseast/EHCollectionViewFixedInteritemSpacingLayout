@@ -1,16 +1,19 @@
 PODS:
-  - EHCollectionViewFixedInteritemSpacingLayout (0.1.0)
+  - EHCollectionViewFixedInteritemSpacingLayout (1.0.0)
+  - Masonry (0.6.4)
 
 DEPENDENCIES:
   - EHCollectionViewFixedInteritemSpacingLayout (from `../`)
+  - Masonry (~> 0.6.4)
 
 EXTERNAL SOURCES:
   EHCollectionViewFixedInteritemSpacingLayout:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EHCollectionViewFixedInteritemSpacingLayout: 3c3c78b940098d03a09fb19aeb136b47415a5f14
+  EHCollectionViewFixedInteritemSpacingLayout: 7e1c901dbfa79320232a1f7aa576982300abeed3
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
 
-PODFILE CHECKSUM: 93f126011cb586b82a20ffb7b326b52376e61969
+PODFILE CHECKSUM: 6c1099b2e1bfa89279ee0e4b488d4e5933d67286
 
 COCOAPODS: 1.0.0
