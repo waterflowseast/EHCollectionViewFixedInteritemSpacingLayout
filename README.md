@@ -5,11 +5,23 @@
 [![License](https://img.shields.io/cocoapods/l/EHCollectionViewFixedInteritemSpacingLayout.svg?style=flat)](http://cocoapods.org/pods/EHCollectionViewFixedInteritemSpacingLayout)
 [![Platform](https://img.shields.io/cocoapods/p/EHCollectionViewFixedInteritemSpacingLayout.svg?style=flat)](http://cocoapods.org/pods/EHCollectionViewFixedInteritemSpacingLayout)
 
+## Summary
+
+A UICollectionViewFlowLayout with fixed interitem spacing.
+
+you just need to set its minimumInteritemSpacing to your fixed interitem spacing.
+
+## Screenshots
+
+![](https://github.com/waterflowseast/EHCollectionViewFixedInteritemSpacingLayout/raw/master/screenshots/1.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 7.0+
 
 ## Installation
 
